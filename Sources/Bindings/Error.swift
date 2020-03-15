@@ -5,7 +5,7 @@
 //  Created by Jake Heiser on 3/4/18.
 //
 
-import CSSH
+
 
 public struct LibSSH2Error: Swift.Error {
     

@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import CSSH
+
 
 public class SFTP {
     private let sftpSession: OpaquePointer
